@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="pass_yds <= 2306.0\nmse = 9396.1\nsamples = 364\nvalue = 151.0"] ;
+1 [label="pass_yds <= 1053.0\nmse = 1482.2\nsamples = 167\nvalue = 60.6"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="pass_yds <= 619.5\nmse = 426.3\nsamples = 87\nvalue = 32.5"] ;
+1 -> 2 ;
+3 [label="mse = 96.7\nsamples = 55\nvalue = 19.1"] ;
+2 -> 3 ;
+4 [label="mse = 239.4\nsamples = 32\nvalue = 52.9"] ;
+2 -> 4 ;
+5 [label="pass_yds <= 1703.5\nmse = 692.9\nsamples = 80\nvalue = 93.9"] ;
+1 -> 5 ;
+6 [label="mse = 264.8\nsamples = 46\nvalue = 79.1"] ;
+5 -> 6 ;
+7 [label="mse = 623.9\nsamples = 34\nvalue = 111.8"] ;
+5 -> 7 ;
+8 [label="pass_td <= 19.5\nmse = 3538.0\nsamples = 197\nvalue = 226.2"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="pass_yds <= 2913.5\nmse = 792.8\nsamples = 81\nvalue = 174.1"] ;
+8 -> 9 ;
+10 [label="mse = 675.1\nsamples = 40\nvalue = 156.9"] ;
+9 -> 10 ;
+11 [label="mse = 398.1\nsamples = 41\nvalue = 189.4"] ;
+9 -> 11 ;
+12 [label="pass_td <= 33.5\nmse = 2208.5\nsamples = 116\nvalue = 262.9"] ;
+8 -> 12 ;
+13 [label="mse = 1312.7\nsamples = 99\nvalue = 250.7"] ;
+12 -> 13 ;
+14 [label="mse = 825.2\nsamples = 17\nvalue = 341.3"] ;
+12 -> 14 ;
+}
