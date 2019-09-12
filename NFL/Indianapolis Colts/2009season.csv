@@ -1,0 +1,23 @@
+,,,,,,,,,,Score,,Offense,,,,,Defense,,,,,Expected Points,,
+Week,Day,Date,,,,OT,Rec,,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+1,Sun,13-Sep,1:02PM ET,boxscore,W,,Jan-00,,Jacksonville Jaguars,14,12,21,365,294,71,2,12,228,114,114,,-0.52,4.99,0.45
+2,Mon,21-Sep,8:42PM ET,boxscore,W,,Feb-00,@,Miami Dolphins,27,23,14,356,295,61,,27,403,164,239,1,19.29,-15.12,0.77
+3,Sun,27-Sep,8:31PM ET,boxscore,W,,Mar-00,@,Arizona Cardinals,31,10,22,505,379,126,1,21,323,299,24,3,14.19,12.34,-6.09
+4,Sun,4-Oct,1:03PM ET,boxscore,W,,Apr-00,,Seattle Seahawks,34,17,24,431,353,78,1,20,279,230,49,2,18.62,5.98,-8.78
+5,Sun,11-Oct,8:30PM ET,boxscore,W,,May-00,@,Tennessee Titans,31,9,23,367,309,58,2,12,245,155,90,2,14.57,15.4,-8.48
+6,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+7,Sun,25-Oct,1:00PM ET,boxscore,W,,Jun-00,@,St. Louis Rams,42,6,24,391,235,156,,14,272,117,155,2,24.73,16.54,-5.96
+8,Sun,1-Nov,1:03PM ET,boxscore,W,,Jul-00,,San Francisco 49ers,18,14,20,410,349,61,,16,295,182,113,2,4.93,6.07,-5.02
+9,Sun,8-Nov,1:02PM ET,boxscore,W,,Aug-00,,Houston Texans,20,17,27,378,306,72,2,22,382,301,81,3,5.34,-2.57,1.23
+10,Sun,15-Nov,8:31PM ET,boxscore,W,,Sep-00,,New England Patriots,35,34,25,407,316,91,2,24,477,364,113,2,15.29,-8.97,-5.42
+11,Sun,22-Nov,1:02PM ET,boxscore,W,,Oct-00,@,Baltimore Ravens,17,15,20,375,299,76,3,20,354,256,98,2,3.99,-1.56,4.07
+12,Sun,29-Nov,1:02PM ET,boxscore,W,,Nov-00,@,Houston Texans,35,27,28,342,228,114,2,27,396,274,122,3,17.14,-6.42,-1.34
+13,Sun,6-Dec,1:03PM ET,boxscore,W,,Dec-00,,Tennessee Titans,27,17,23,358,270,88,,24,375,233,142,2,16.18,1.97,-6.33
+14,Sun,13-Dec,1:02PM ET,boxscore,W,,13-0,,Denver Broncos,28,16,21,312,220,92,3,20,357,262,95,1,0.56,9.88,2.53
+15,Thu,17-Dec,8:21PM ET,boxscore,W,,14-0,@,Jacksonville Jaguars,35,31,18,369,308,61,1,25,345,206,139,1,16.89,-14.42,1.13
+16,Sun,27-Dec,4:16PM ET,boxscore,L,,14-1,,New York Jets,15,29,18,286,222,64,2,17,293,91,202,,-8.09,0.47,-7.11
+17,Sun,3-Jan,1:02PM ET,boxscore,L,,14-2,@,Buffalo Bills,7,30,11,157,132,25,3,19,403,155,248,,-18.95,-10.28,6.33
+,,Playoffs,,,,,,,,,,,,,,,,,,,,,,
+Division,Sat,16-Jan,8:15PM ET,boxscore,W,,15-2,,Baltimore Ravens,20,3,22,275,233,42,1,12,270,183,87,4,2.95,12.05,-1.91
+Conf. Champ.,Sun,24-Jan,3:05PM ET,boxscore,W,,16-2,,New York Jets,30,17,27,461,360,101,1,17,388,302,86,1,15.88,-5.09,1.12
+SuperBowl,Sun,7-Feb,6:31PM ET,boxscore,L,,16-3,N,New Orleans Saints,17,31,23,432,333,99,1,20,332,281,51,,5.82,-10.15,-8.82
